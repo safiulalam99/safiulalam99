@@ -1,5 +1,3 @@
-6 lines (82 sloc)  4.91 KB
-
 <!-- Your title -->
 ## Hi, I'm Safi, Full Stack dev based in Finland 🚀.
 
