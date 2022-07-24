@@ -40,16 +40,18 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png" alt="C++" align="left" width="48" height="48">
     <!-- python logo -->
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="C++" align="left" width="48" height="48">
+     <!-- java logo -->
+    <img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" align="left" width="48" height="48">
     <!-- kotlin logo -->
     <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" align="left" width="48" height="48">
      <!-- node logo -->
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" align="left" width="48" height="48">
-    <!-- html logo -->
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" align="left" width="48" height="48">
     <!-- react logo -->
     <img src="https://img.icons8.com/plasticine/344/react.png" align="left" width="48" height="48">
     <!-- typescript logo -->
     <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" align="left" width="48" height="48">  
+     <!-- html logo -->
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" align="left" width="48" height="48">
     <!-- mongo db logo-->
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" align="left" width="48" height="48">
     <!-- postgresql logo-->
