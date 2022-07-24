@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 👨🏽‍💻 Looking for projects to collaborate on. Know any? Hit me up! 💬
 - 🌱 I’m currently learning Salesforce alongside AWS; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am studying Software engineering;
+- ⚡️ Fun-Fact: I am studying Software engineering at Tampere Univeristy of Applied Sciences;
 - 📫 How to reach me: alamsafiul99@gmail.com;
 
 
