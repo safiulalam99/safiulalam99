@@ -21,7 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-- ⚙️ I like working with the Backend or DevOps tech.
+- ⚙️ I like working with the Backend and DevOps tech.
 - 👨🏽‍💻 Looking for projects to collaborate on. Know any? Hit me up! 💬
 - 🌱 I’m currently learning Salesforce alongside AWS; 
 - 💬 Ask me about anything, I am happy to help;
