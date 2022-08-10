@@ -9,7 +9,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/82179767/180627310-f34c3f84-6ece-4471-988b-fdc275b09ebd.gif" />
 </div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/safiulalam99)
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alam-safiul/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alamsafiul99@gmail.com)
 
