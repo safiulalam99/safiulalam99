@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 - ⚙️ Currently I work as backend engineer. But a full stack developer from heart.
 - 👨🏽‍💻 Looking for projects to collaborate on. Know any? Hit me up! 💬
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I am studying Software engineering;
+
 
 
 
