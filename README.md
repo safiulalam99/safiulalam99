@@ -87,6 +87,8 @@ You can use the website to generate badges: https://shields.io/
     <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" align="left" width="48" height="48">
     <!-- salesforce logo -->
     <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" align="left" width="48" height="48">
+     <!-- terraform logo -->
+    <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Salesforce" align="left" width="48" height="48">
 
 </div>
 
